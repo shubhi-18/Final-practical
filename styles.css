@@ -1,0 +1,31 @@
+file{
+    background-color: black;
+    color:white;
+    overflow:hidden;
+    display:flex;
+    padding: 5px;
+    
+    
+    
+
+}
+img{
+    width:200px;
+    height: 200px;
+}
+progress{
+    background-color: aqua;
+    
+}
+p{
+    
+        padding-left:30px;
+        padding-right:30px;
+}
+.aside{
+    float: right;
+    margin: 0 1.5%;
+    width: 30%;
+    position:absolute 
+    
+}
